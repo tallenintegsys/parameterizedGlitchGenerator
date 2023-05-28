@@ -1,4 +1,4 @@
-# glitchGenerator
+# parameterizedGlitchGenerator
 Really a fancy pulse generator specialized to generating glitch pulses
 ## Purpose
 Generate glitch pulses of at specific time after a trigger and for a specific 
